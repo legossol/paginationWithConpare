@@ -1,6 +1,6 @@
 spring:
   application:
-    name: skeleton
+    name: pagization
   config:
     import: properties/swagger/swagger.yml
   mail:
